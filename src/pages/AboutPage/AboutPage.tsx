@@ -1,3 +1,3 @@
 export default function AboutPage() {
-  return <div>О бразуере</div>;
+  return <div>О бразуере!</div>;
 }
